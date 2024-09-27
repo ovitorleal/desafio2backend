@@ -12,11 +12,6 @@ Essa é uma aplicação de CRUD básico em que consiste em manipular dados no ba
 - Atualiza dados de uma pessoa do sistema.
 - Deleta uma pessoa do sistema.
 
-## VERSIONAMENTO :
-
-Versão do Java: 17
-
-Versão do Spring Boot: 3.0.2
 
 ## FERRAMENTAS :
 
