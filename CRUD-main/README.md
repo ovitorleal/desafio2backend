@@ -36,27 +36,10 @@ Dependências:
 
      LomBok -> Utilizado para evitar muitas linhas de código através de annotations.
 
-Programas Utilizados :
 
-    Postman - Utilizado para fazer as requisições (CONSUMIR) a aplicação.
-    
-    IntelliJ - IDE escolhida para desenvolver o projeto.
-    
-    pgAdmin4 - Plataforma utilizada para fazer a manipulação e a leitura dos dados de uma base de dados do banco PostgreSQL.
-    
-    Git e GitHub - Utilizados para commitar o projeto e subir o código para a nuvem(remoto).
 
 Bancos de Dados :
 
     PostgreSQL - Usado em ambiente de desenvolvimento e produção.
 
-- Schema :
 
-<img src="https://user-images.githubusercontent.com/85299065/218934839-23a71182-808e-471b-8314-878347971218.PNG" width="60%" height="60%">
-
-
-## LINKS ADICIONAIS :
-
-Explicação da API em vídeo no YouTube : https://youtu.be/VK-RJPl1ALg
-
-Perfil no Linkedin : https://www.linkedin.com/in/victoralmada/
